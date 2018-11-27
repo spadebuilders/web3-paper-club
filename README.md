@@ -1,9 +1,16 @@
 # Web3 Paper Club
 Organizing, scheduling, and notes for a web3 / distributed technology whitepaper club
 
-## Table of Contents
-
-[toc]
+* [Purpose](#purpose)
+* [Club Format](#club-format)
+   * [Ground Rules](#ground-rules)
+   * [This Club is <em>Not</em>...](#this-club-is-not)
+* [Conferencing Info](#conferencing-info)
+   * [Zoom](#zoom)
+   * [Mobile](#mobile)
+      * [Dial by your location](#dial-by-your-location)
+   * [Meeting ID: 562 810 797](#meeting-id-562-810-797)
+* [Schedule](#schedule)
 
 ## Purpose
 
