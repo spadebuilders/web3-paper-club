@@ -1,5 +1,5 @@
-# Distributed Technology Paper Club
-Organizing, scheduling, and notes for a distributed technology whitepaper club
+# Web3 Paper Club
+Organizing, scheduling, and notes for a web3 / distributed technology whitepaper club
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ Organizing, scheduling, and notes for a distributed technology whitepaper club
 
 ## Purpose
 
-This club exists to share what we learn about various blockchain technologies, in a focused manner. The hope is that this will spread knowledge, build community, and provide incentive to keep reading interesting material.
+This club exists to share what we learn about various web3 technologies in a focused manner. The hope is that this will spread knowledge, build community, and provide incentive to keep reading interesting material.
 
 ## Club Format
 
