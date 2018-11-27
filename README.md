@@ -6,10 +6,6 @@ Organizing, scheduling, and notes for a web3 / distributed technology whitepaper
    * [Ground Rules](#ground-rules)
    * [This Club is <em>Not</em>...](#this-club-is-not)
 * [Conferencing Info](#conferencing-info)
-   * [Zoom](#zoom)
-   * [Mobile](#mobile)
-      * [Dial by your location](#dial-by-your-location)
-   * [Meeting ID: 562 810 797](#meeting-id-562-810-797)
 * [Schedule](#schedule)
 
 ## Purpose
@@ -44,17 +40,21 @@ Only after the above, there is a broad discussion of:
 ## Conferencing Info
 
 ### Zoom
+
 [Join Zoom Meeting](https://zoom.us/j/562810797)
 
 ### Mobile
-`+19292056099,,562810797#` US
-`+14086380986,,562810797#` US (San Jose)
+
+* `+19292056099,,562810797#` US
+* `+14086380986,,562810797#` US (San Jose)
 
 #### Dial by your location
-`+1 929 205 6099` US
-`+1 408 638 0986` US (San Jose)
 
-### Meeting ID: 562 810 797
+* `+1 929 205 6099` US
+* `+1 408 638 0986` US (San Jose)
+
+Meeting ID: `562 810 797`
+
 [Find your local number](https://zoom.us/u/abPYStPclS)
 
 ## Schedule
