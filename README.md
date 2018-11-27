@@ -3,11 +3,7 @@ Organizing, scheduling, and notes for a web3 / distributed technology whitepaper
 
 ## Table of Contents
 
-* [Purpose](#schedule)
-* [Format](#format)
-  * [Ground Rules](#ground-rules)
-  * [This Club is _Not_...](#this-club-is-not)
-* [Schedule](#schedule)
+[toc]
 
 ## Purpose
 
@@ -38,8 +34,24 @@ Only after the above, there is a broad discussion of:
 * A place to discuss token markets (beyond the scope of what is in the paper)
 * A place to recruit developers
 
+## Conferencing Info
+
+### Zoom
+[Join Zoom Meeting](https://zoom.us/j/562810797)
+
+### Mobile
+`+19292056099,,562810797#` US
+`+14086380986,,562810797#` US (San Jose)
+
+#### Dial by your location
+`+1 929 205 6099` US
+`+1 408 638 0986` US (San Jose)
+
+### Meeting ID: 562 810 797
+[Find your local number](https://zoom.us/u/abPYStPclS)
+
 ## Schedule
 
 | Date        | Paper                                                                                     | Presenter                                      |
 |------------:|-------------------------------------------------------------------------------------------|:-----------------------------------------------|
-|  2018-10-31 | [Example Paper](google.com)                              | [Brooklyn Zelenka](https://github.com/expede)  |
+|  [2018-12-05](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2018&month=12&day=4&hour=16&min=0&sec=0&p1=256&p2=102&p3=37&p4=179&p5=240) | [Holochain](https://github.com/spadebuilders/web3-paper-club/issues/10)                              | [Brooklyn Zelenka](https://github.com/expede)  |
