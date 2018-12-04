@@ -61,4 +61,4 @@ Meeting ID: `562 810 797`
 
 | Date        | Paper                                                                                     | Presenter                                      |
 |------------:|-------------------------------------------------------------------------------------------|:-----------------------------------------------|
-|  [2018-12-05](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2018&month=12&day=4&hour=16&min=0&sec=0&p1=256&p2=102&p3=37&p4=179&p5=240) | [Holochain](https://github.com/spadebuilders/web3-paper-club/issues/10)                              | [Brooklyn Zelenka](https://github.com/expede)  |
+|  [2018-12-05](https://www.timeanddate.com/worldclock/meetingdetails.html?year=2018&month=12&day=5&hour=16&min=0&sec=0&p1=256&p2=102&p3=37&p4=179&p5=240) | [Holochain](https://github.com/spadebuilders/web3-paper-club/issues/10)                              | [Brooklyn Zelenka](https://github.com/expede)  |
